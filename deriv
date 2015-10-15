@@ -1,3 +1,6 @@
+% Function for a forward derivative
+
+
 function [dx] = deriv ( x , h )
 %
 % Numerical Derivatives Lab
